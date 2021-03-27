@@ -6,7 +6,6 @@ function Navbar() {
       <Link to='/'>
         <h3>blogger</h3>
       </Link>
-
       <ul className='navlinks'>
         <Link to='/about'>
           <li>About</li>
