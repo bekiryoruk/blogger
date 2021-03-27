@@ -1,0 +1,33 @@
+.login {
+  text-align: center;
+  background-color: cadetblue;
+  height: 400;
+  width: 270;
+  border-style: groove;
+}
+.child {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+  margin-top: -150px;
+  margin-left: -140px;
+}
+.logintxt {
+  width: 250px;
+  text-align: center;
+}
+.inputs {
+  margin-top: 6px;
+  margin-bottom: 6px;
+  height: 20px;
+  width: 250px;
+}
+.submtbtn {
+  margin-top: 10px;
+  background-color: limegreen;
+  width: 260px;
+  height: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  color: aliceblue;
+}
