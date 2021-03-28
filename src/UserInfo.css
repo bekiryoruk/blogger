@@ -1,0 +1,15 @@
+.userpng {
+  height: 200px;
+  width: 150px;
+  padding-left: 100px;
+}
+.user-text {
+}
+.user-info {
+  margin-top: 20px;
+  background-color: gray;
+  width: 750px;
+  padding-left: 20px;
+  display: flex;
+  color: white;
+}

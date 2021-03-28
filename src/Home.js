@@ -1,9 +1,13 @@
 import React from 'react'
-
+import Post from './Post'
+import UserInfo from './UserInfo'
 function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <div>
+        <UserInfo />
+      </div>
+      <Post />
     </div>
   )
 }
