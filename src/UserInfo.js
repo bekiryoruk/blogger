@@ -6,6 +6,7 @@ function Home() {
     <div className='user-info'>
       <div className='user-text'>
         <h1>Bekir Yörük</h1>
+        <h1>Computer Engineering</h1>
         <h1>İzmir Yüksek Teknoloji Enstitüsü</h1>
         <h3>bekiryoruk1@gmail.com</h3>
       </div>

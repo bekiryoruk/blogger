@@ -1,0 +1,12 @@
+.all-post {
+  margin-top: 20px;
+  width: 750px;
+  padding-left: 20px;
+  color: white;
+  background-color: gray;
+}
+.post {
+  margin-top: 20px;
+  padding-left: 20px;
+  color: white;
+}

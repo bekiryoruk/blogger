@@ -3,7 +3,7 @@ import Post from './Post'
 import UserInfo from './UserInfo'
 function Home() {
   return (
-    <div>
+    <div className='home'>
       <div>
         <UserInfo />
       </div>
