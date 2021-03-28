@@ -8,12 +8,20 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import Home from './Home'
 
 function App() {
+  const posts = [
+    { id: 1, title: 'Hello World', content: 'Welcome to learning React!' },
+    {
+      id: 2,
+      title: 'Installation',
+      content: 'You can install React from npm.',
+    },
+  ]
   return (
     <Router>
       <div>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
+          <Route path='/' exact component={() => <Home posts={posts} />} />
           <Route path='/about' component={About} />
           <Route path='/post' component={Post} />
           <Route path='/login' component={Login} />
