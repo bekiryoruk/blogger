@@ -6,7 +6,6 @@ function Post() {
     <div className='all-post'>
       <div classname='post'>
         <h1>Sevginin Tanımı</h1>
-        <p>BLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUE</p>
         <p>
           Sevginin tanımını çoğu düşünür birbirinden farklı yapmış hatta
           düşüncelerinde birbirlerine atıfta bulunmuşlardır. Erich Fromm Sevme
@@ -37,7 +36,6 @@ function Post() {
       <br />
       <div>
         <h1>Sevginin Tanımı</h1>
-        <p>BLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUE</p>
         <p>
           Sevginin tanımını çoğu düşünür birbirinden farklı yapmış hatta
           düşüncelerinde birbirlerine atıfta bulunmuşlardır. Erich Fromm Sevme
@@ -68,7 +66,6 @@ function Post() {
       <br />
       <div>
         <h1>Sevginin Tanımı</h1>
-        <p>BLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUEBLUE</p>
         <p>
           Sevginin tanımını çoğu düşünür birbirinden farklı yapmış hatta
           düşüncelerinde birbirlerine atıfta bulunmuşlardır. Erich Fromm Sevme
